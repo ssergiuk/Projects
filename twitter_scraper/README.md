@@ -134,6 +134,7 @@ Thanks to the following people who have contributed to this project:
 * @kennethreitz (author)
 * @bisguzar (maintainer)
 * @lionking6792
+* @ssergiuk
 
 
 
