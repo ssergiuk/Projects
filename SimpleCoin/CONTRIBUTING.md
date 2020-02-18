@@ -1,6 +1,6 @@
 # Contributing to SimpleCoin
 
-:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+:+1::tada: First off, ssergiuk, thanks for taking the time to contribute! :tada::+1:
 
 ## Pull Requests
 We actively welcome your pull requests.
